@@ -1,0 +1,9 @@
+main: me.TurtlesAreHot.PickupToggle.Main
+name: PickupToggle
+version: 1.0.0
+description: This is a pickup toggle plugin
+author: TurtlesAreHot
+api-version: 1.13
+commands:
+  pickup:
+    description: Lets you toggle on and off item pickup.
